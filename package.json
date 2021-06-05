@@ -1,6 +1,6 @@
 {
   "name": "mutex-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Poll something on an interval w/ mutex protection",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "Corey Sharrah <corey@eviltreehouse.com>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^8.0.1"
+    "mocha": "^8.4.0"
   }
 }
